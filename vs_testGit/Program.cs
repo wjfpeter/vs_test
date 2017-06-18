@@ -10,6 +10,8 @@ namespace vs_testGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
